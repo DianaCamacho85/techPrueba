@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="2" name="Ingresar a la pagina de tutorial ninja" skipped="0" tests="2" time="41.11" timestamp="2020-03-22 01:33:33"><testcase name="Ingresar a la pagina de tutorial ninja, crear un usuario para compras y verificar que el nombre de usuario corresponde al usuario que ingresa"><failure message="The following error occurred: Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">The following error occurred: Expected enabled element was not enabled</failure><system-err>The following error occurred: Expected enabled element was not enabled&#13;
+co.com.proyectobase.screenplay.tasks.CrearUsuario.performAs(CrearUsuario.java:19)&#13;
+co.com.proyectobase.screenplay.stepdefinitions.CrearUsuarioCompras.requieroCrearUnUsuarioParaRealizarUnaCompra(CrearUsuarioCompras.java:35)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase><testcase name="Loguearse en la pagina tutorial ninja y agregar un articulo y verificar que el articulo fue cargado al carrito de compras"><failure message="The following error occurred: Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">The following error occurred: Expected enabled element was not enabled</failure><system-err>The following error occurred: Expected enabled element was not enabled&#13;
+co.com.proyectobase.screenplay.interactions.AgregarProducto.performAs(AgregarProducto.java:26)&#13;
+co.com.proyectobase.screenplay.stepdefinitions.AgregarProductoCarrito.requieroAgregarUnArticuloAlCarritoDeCompra(AgregarProductoCarrito.java:37)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Ingresar a la pagina de tutorial ninja" skipped="0" tests="1" time="19.72" timestamp="2020-03-21 07:30:01"><testcase name="Loguearse en la pagina tutorial ninja y agregar un articulo y verificar que el articulo fue cargado al carrito de compras"/></testsuite>
